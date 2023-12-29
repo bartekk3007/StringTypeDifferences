@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\48571\source\repos\StringTypeDifferences\main.cpp(26,9): error C2440: 'initializing': cannot convert from 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>' to 'char'
+C:\Users\48571\source\repos\StringTypeDifferences\main.cpp(26,9): error C2440:         with
+C:\Users\48571\source\repos\StringTypeDifferences\main.cpp(26,9): error C2440:         [
+C:\Users\48571\source\repos\StringTypeDifferences\main.cpp(26,9): error C2440:             _Ty=char
+C:\Users\48571\source\repos\StringTypeDifferences\main.cpp(26,9): error C2440:         ]
+  C:\Users\48571\source\repos\StringTypeDifferences\main.cpp(26,9):
+  No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  
